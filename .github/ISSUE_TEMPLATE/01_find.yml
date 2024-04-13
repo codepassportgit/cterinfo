@@ -3,7 +3,7 @@ description: 发现了新的大藏经资源，需要大家群策群力下载。
 title: "[藏经发现]: "
 labels: ["藏经发现"]
 body:
-  - type: input
+  - type: textarea
     id: "url"
     attributes:
       label: "原站地址"
