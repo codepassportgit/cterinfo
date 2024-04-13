@@ -1,0 +1,27 @@
+# 资源地址
+http://jodoshuzensho.jp/zojoji_sandaizo/50list/
+# 现存问题
+1. ☆開元錄，元1074，http://jodoshuzensho.jp/zojoji/yuan/viewer/231/456/03/mir_231_456_03.html，无法访问
+2. 舊雜譬喩經，元1022，http://jodoshuzensho.jp/zojoji/yuan/viewer/218/334/08/mir_218_334_08.html，无法访问
+3. 舊雜譬喩經，元1022，http://jodoshuzensho.jp/zojoji/yuan/viewer/218/334/09/mir_218_334_09.html，无法访问
+4. 五門禪經要用法，元1014，http://jodoshuzensho.jp/zojoji/yuan/viewer/218/334/01/mir_218_334_01.html，无法访问
+5. 廣弘明集，元1092，http://jodoshuzensho.jp/zojoji/yuan/viewer/243/478/08/mir_243_478_08.html，无法访问
+6. 根本說一切有部毘奈耶雜事，元903，http://jodoshuzensho.jp/zojoji/yuan/viewer/162/323/01/mir_162_323_01.html，无法访问
+7. 思惟要略法，元1020，http://jodoshuzensho.jp/zojoji/yuan/viewer/218/334/07/mir_218_334_07.html，无法访问
+8. 十二遊經，元1021，http://jodoshuzensho.jp/zojoji/yuan/viewer/218/334/07/mir_218_334_07.html，无法访问
+9. 成實論，元977，http://jodoshuzensho.jp/zojoji/yuan/viewer/207/414/02/mir_207_414_02.html，无法访问
+10. 禪法要解，元（1016），http://jodoshuzensho.jp/zojoji/yuan/viewer/218/334/04/mir_218_334_04.html，无法访问
+11. 禪法要解，元（1016），http://jodoshuzensho.jp/zojoji/yuan/viewer/218/334/05/mir_218_334_05.html，无法访问
+12. 禪法要解經，元1016，http://jodoshuzensho.jp/zojoji/yuan/viewer/218/334/04/mir_218_334_04.html，无法访问
+13. 禪法要解經，元1016，http://jodoshuzensho.jp/zojoji/yuan/viewer/218/334/05/mir_218_334_05.html，无法访问
+14. 禪要呵欲經，元1017，http://jodoshuzensho.jp/zojoji/yuan/viewer/218/334/06/mir_218_334_06.html，无法访问
+15. 禪要經，元（1017），http://jodoshuzensho.jp/zojoji/yuan/viewer/218/334/06/mir_218_334_06.html，无法访问
+16. 雜譬喩經（失譯），元1023，http://jodoshuzensho.jp/zojoji/yuan/viewer/218/334/10/mir_218_334_10.html，无法访问
+17. 逹摩多羅禪經，元1015，http://jodoshuzensho.jp/zojoji/yuan/viewer/218/334/02/mir_218_334_02.html，无法访问
+18. 逹摩多羅禪經，元1015，http://jodoshuzensho.jp/zojoji/yuan/viewer/218/334/03/mir_218_334_03.html，无法访问
+19. 佛本行集經，元810，http://jodoshuzensho.jp/zojoji/yuan/viewer/149/297/01/mir_149_297_01.html，无法访问
+20. ☆本行集經，元810，http://jodoshuzensho.jp/zojoji/yuan/viewer/149/297/01/mir_149_297_01.html，无法访问
+21. 内身觀章句經，元1018，http://jodoshuzensho.jp/zojoji/yuan/viewer/218/334/06/mir_218_334_06.html，无法访问
+22. ☆毘奈耶雜事，元903，http://jodoshuzensho.jp/zojoji/yuan/viewer/162/323/01/mir_162_323_01.html，无法访问
+23. 法觀經，元1019，http://jodoshuzensho.jp/zojoji/yuan/viewer/218/334/06/mir_218_334_06.html，无法访问
+24. 目蓮問戒律中五百輕重事經元版位置为麗944
