@@ -3,7 +3,7 @@ description: 发现了新的大藏经资源并下载完毕，需要分享给大�
 title: "[藏经分享]: "
 labels: ["藏经分享"]
 body:
-  - type: input
+  - type: textarea
     id: "url"
     attributes:
       label: "分享地址"
