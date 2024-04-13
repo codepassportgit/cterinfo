@@ -1,0 +1,19 @@
+name: 藏经分享
+description: 发现了新的大藏经资源，已下载完毕，需要分享给大家。
+title: "[藏经分享]: "
+labels: ["藏经分享"]
+body:
+  - type: input
+    id: "url"
+    attributes:
+      label: "分享地址"
+      description: "网盘或其他可访问下载的地址"
+    validations:
+      required: true
+  - type: textarea
+    id: "describe"
+    attributes:
+      label: "具体说明"
+      description: "详细描述具体情况"
+    validations:
+      required: true
