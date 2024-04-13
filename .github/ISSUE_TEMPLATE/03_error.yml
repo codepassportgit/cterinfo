@@ -3,7 +3,7 @@ description: 已有大藏经发现了问题，需要大家通力解决。
 title: "[问题报告]: "
 labels: ["问题报告"]
 body:
-  - type: textarea
+  - type: input
     id: "url"
     attributes:
       label: "所属藏经"
