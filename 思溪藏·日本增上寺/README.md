@@ -5,3 +5,4 @@ http://jodoshuzensho.jp/zojoji_sandaizo/50list/
 - 不空羂索呪心經（菩提流志譯）宋版位置为元292
 - 楞伽阿跋多羅寶經，宋162，无法访问，http://jodoshuzensho.jp/zojoji/sung/viewer/026/147/10/mir_026_147_10.html
 - 首楞嚴經，宋440，无法访问，http://jodoshuzensho.jp/zojoji/sung/viewer/034/196/02/mir_034_196_02.html
+- 說無垢稱經缺卷6
